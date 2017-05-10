@@ -2,7 +2,7 @@
 
 ## 读书笔记
 
-[Ruby基础教程第4版](/Ruby-Programming-V4/读书笔记.md)
+* [Ruby基础教程第4版](/Ruby-Programming-V4/读书笔记.md)
 
 ## 参考网站
 
