@@ -6,4 +6,6 @@
 
 ## 参考网站
 
+* [Ruby官网](http://www.ruby-lang.org/zh_cn/)
+* [Ruby China](https://ruby-china.org)
 * [Ruby on Rails 指南 (v5.0.1)](http://guides.ruby-china.org/)
