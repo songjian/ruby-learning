@@ -23,6 +23,8 @@ rake db:migrate
 
 ### 禁止生成控制器静态资源
 
+通过在 config/application.rb 配置文件中添加下述代码，可以禁止生成针对控制器的静态资源文件：
+
 ```ruby
 config.generators do |g|
   g.assets false
