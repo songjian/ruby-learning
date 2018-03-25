@@ -4,6 +4,10 @@
 
 * [Ruby基础教程第4版](/Ruby-Programming-V4/读书笔记.md)
 
+## 文章
+
+* [Rails环境搭建](/articles/Rails环境搭建.md)
+
 ## 参考网站
 
 * [Ruby官网](http://www.ruby-lang.org/zh_cn/)
