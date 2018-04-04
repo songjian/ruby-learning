@@ -7,6 +7,7 @@
 ## 文章
 
 * [Rails环境搭建](/articles/Rails环境搭建.md)
+* [Ruby项目推荐](/articles/Ruby项目推荐.md)
 
 ## 参考网站
 
